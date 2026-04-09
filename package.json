@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "vitepress": "..."
+  },
+  "dependencies": {
+    "@giscus/vue": "^3.1.1"
   }
 }
