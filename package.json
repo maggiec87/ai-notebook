@@ -1,12 +1,12 @@
 {
   "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:dev": "npx vitepress dev docs",
+    "docs:build": "npx vitepress build docs",
+    "docs:preview": "npx vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "..."
+    "vitepress": "^1.0.0"
   },
   "dependencies": {
     "@giscus/vue": "^3.1.1"
