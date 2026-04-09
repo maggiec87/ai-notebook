@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ai-notebook/',   // ← 加这一行，注意前后都有斜杠
   title: "Learning AI from scratch",
   description: "从零开始学AI",
   themeConfig: {
