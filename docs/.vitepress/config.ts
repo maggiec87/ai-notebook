@@ -17,6 +17,7 @@ export default defineConfig({
       {
         text: '目录',
         items: [
+          { text: 'AI发展史', link: '/history.md' },
           { text: '从零开始：小白入门手册', link: '/basic.md' },
           { text: '进阶实战：从算法到架构', link: '/advanced.md' }
         ]
