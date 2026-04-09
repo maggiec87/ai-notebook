@@ -9,16 +9,16 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'AI从零开始：小白进阶手册', link: '/AI从零开始：小白进阶手册.md' },
-      { text: 'AI进阶实战：从算法原理到系统架构', link: '/AI进阶实战：从算法原理到系统架构.md' }
+      { text: '小白入门', link: '/AI从零开始：小白进阶手册.md' },
+      { text: '进阶实战', link: '/AI进阶实战：从算法原理到系统架构.md' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '目录',
         items: [
-          { text: 'AI从零开始：小白进阶手册', link: '/AI从零开始：小白进阶手册.md' },
-          { text: 'AI进阶实战：从算法原理到系统架构', link: '/AI进阶实战：从算法原理到系统架构.md' }
+          { text: '从零开始：小白入门手册', link: '/AI从零开始：小白进阶手册.md' },
+          { text: '进阶实战：从算法到架构', link: '/AI进阶实战：从算法原理到系统架构.md' }
         ]
       }
     ],

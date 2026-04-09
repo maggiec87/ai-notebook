@@ -1,10 +1,10 @@
 <template>
   <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--vp-c-divider)">
     <Giscus
-      repo="你的用户名/仓库名"
-      repo-id="R_xxxxxxxxxx"
+      repo="maggiec87/ai-notebook"
+      repo-id="R_kgDOR9moZQ"
       category="Announcements"
-      category-id="DIC_xxxxxxxxxx"
+      category-id="DIC_kwDOR9moZc4C6bYo"
       mapping="pathname"
       reactions-enabled="1"
       emit-metadata="0"
