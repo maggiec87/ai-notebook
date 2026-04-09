@@ -6,10 +6,10 @@ hero:
   actions:
     - theme: brand
       text: 小白手册
-      link: /AI从零开始：小白进阶手册.md
+      link: /basic.md
     - theme: alt
       text: 进阶实战
-      link: /AI进阶实战：从算法原理到系统架构.md
+      link: /advanced.md
 
 features:
   - title: 小白手册
